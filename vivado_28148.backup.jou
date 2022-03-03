@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed May 26 18:33:27 2021
+# Process ID: 28148
+# Current directory: C:/Users/erata/ALUU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent27920 C:\Users\erata\ALUU\ALUU.xpr
+# Log file: C:/Users/erata/ALUU/vivado.log
+# Journal file: C:/Users/erata/ALUU\vivado.jou
+#-----------------------------------------------------------sstart_guioopen_project C:/Users/erata/ALUU/ALUU.xprupdate_compile_order -fileset sources_1
+launch_simulation
